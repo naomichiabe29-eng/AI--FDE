@@ -1,0 +1,8 @@
+DATA_Maguire_20180517_ALL/
+uc?export*/
+pcon/work/
+.venv/
+__pycache__/
+*.npy
+*.pt
+.DS_Store
